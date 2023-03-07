@@ -1,4 +1,4 @@
-#C lick below to run the app
+# Click below to run the app
 
 https://amazon-8ll.pages.dev/
 
